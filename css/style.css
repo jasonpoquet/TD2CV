@@ -1,4 +1,10 @@
 body{
     background-color: #525963;
+
+}
+#nav{
     text-align: center;
+}
+card {
+    display: flex;
 }
