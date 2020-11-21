@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="387651dd-537e-4b93-babc-8b53924b120a" name="Default Changelist" comment="Innitial Commit">
+    <list default="true" id="387651dd-537e-4b93-babc-8b53924b120a" name="Default Changelist" comment="modification CV">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CV_Bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/CV_Bootstrap.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
@@ -47,7 +47,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605877697759</updated>
-      <workItem from="1605877712123" duration="11385000" />
+      <workItem from="1605877712123" duration="11707000" />
+      <workItem from="1605950278222" duration="2928000" />
     </task>
     <task id="LOCAL-00001" summary="Innitial Commit">
       <created>1605884717527</created>
@@ -56,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605884717527</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="modification CV">
+      <created>1605903131866</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605903131866</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,7 +72,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Innitial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Innitial Commit" />
+    <MESSAGE value="modification CV" />
+    <option name="LAST_COMMIT_MESSAGE" value="modification CV" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605877840796">
@@ -83,9 +92,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1605881687878" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605884723160">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605903135210">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605884723160" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605903135210" />
   </component>
 </project>
