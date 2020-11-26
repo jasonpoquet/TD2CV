@@ -1,21 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <title>Mon cv</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
-
+    <script src="js/jquery-3.5.1.min.js"></script>
 </head>
 <body class="container-fluid">
-    <HEADER class="row">
-        <h1 class ="col-lg-12 col-sm-12">Nom Prénom</h1>
-        <h2 class ="col-lg-12 col-sm-12">Poste recherché</h2>
-        <p class ="col-lg-12 col-sm-12">But de votre recherche</p>
-        <address class ="col-lg-12 col-sm-12" >Adresse postale</address>
-        <p class ="col-lg-12 col-sm-12" ><a href="mailto:votrenom@bidule.com">votre_adresse_mail@mail.com</a></p>
-        <NAV id="nav" class="navbar navbar-expand-sm navbar-light bg-info col-lg-12 col-sm-12" >
+<HEADER class="row">
+    <h1 class ="col-lg-12 col-sm-12">Nom Prénom</h1>
+    <h2 class ="col-lg-12 col-sm-12">Poste recherché</h2>
+    <p class ="col-lg-12 col-sm-12">But de votre recherche</p>
+    <address class ="col-lg-12 col-sm-12" >Adresse postale</address>
+    <p class ="col-lg-12 col-sm-12" ><a href="mailto:votrenom@bidule.com">votre_adresse_mail@mail.com</a></p>
+    <NAV id="nav" class="navbar navbar-expand-sm navbar-light bg-info col-lg-12" >
         <a class="navbar-brand" href="#">Mon CV</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+            <span class="navbar-toggler-icon"></span>
+        </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav" >
                 <li class="nav-item"><a class="nav-link col-sm-1" href="#experiences">Expériences</a></li>
@@ -23,14 +26,14 @@
                 <li class="nav-item"><a class="nav-link col-sm-1" href="#interets">Intérêts</a></li>
             </ul>
         </div>
-        </NAV>
-    </HEADER>
+    </NAV>
+</HEADER>
     <div class="row">
     <SECTION class="col-lg-6 col-sm-12">
         <h2>Mon parcours</h2>
         <ARTICLE >
             <h3 id="experiences">Expériences Professionnelles</h3>
-            <div class="card" style="width: 40vw" >
+            <div class="card " style="width: 40vw">
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">Expérience 1</li>
                     <li class="list-group-item">Expérience 2</li>
@@ -40,7 +43,7 @@
         </ARTICLE>
         <ARTICLE>
             <h3 id="formation">Formation</h3>
-            <div class="card " style="width: 40vw" >
+            <div class="card " style="width: 40vw">
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">Formation 1</li>
                     <li class="list-group-item">Formation 2</li>
@@ -61,7 +64,7 @@
     </SECTION>
     <ASIDE class="col-lg-6 col-sm-12">
         <h3 id="competences">Compétences</h3>
-        <div class="card" style="width: 45vw" >
+        <div class="card" style="width: 40vw" >
             <ol class="list-group list-group-flush">
                 <li class="list-group-item">
                     <div class="progress">
@@ -83,11 +86,11 @@
     </ASIDE>
     </div>
     <FOOTER class="row bg-info">
-        <a class="col-12 " href="" target="blank" title="Lnk">
+        <a class="col-lg-12 col-sm-12 " href="" target="blank" title="Lnk">
             <img src="" alt="Lnk" title="Mon profil" />
         </a>
-        <p class="col-12">Created by ??????</p>
+        <p class="col-lg-12 col-sm-12">Created by ??????</p>
     </FOOTER>
-    <script src="js/bootstrap.js"></script>
+
 </body>
 </html>
