@@ -52,7 +52,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CV" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -69,7 +69,8 @@
       <workItem from="1605957513940" duration="794000" />
       <workItem from="1606210316356" duration="6000" />
       <workItem from="1606219036998" duration="13000" />
-      <workItem from="1606309045003" duration="21759000" />
+      <workItem from="1606309045003" duration="22904000" />
+      <workItem from="1606385764308" duration="3399000" />
     </task>
     <task id="LOCAL-00001" summary="Innitial Commit">
       <created>1605884717527</created>
@@ -113,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606384162465</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="modification CV">
+      <created>1606384674012</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606384674012</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,10 +145,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="modification CV" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606219048203">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606387292423">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606219048203" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606387292423" />
     <state x="561" y="262" key="Github.ShareDialog" timestamp="1605884653052">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -153,9 +161,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1605881687878" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606384165591">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606384675794">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606384165591" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606384675794" />
   </component>
 </project>

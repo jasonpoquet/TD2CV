@@ -2,10 +2,10 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mon cv</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
-    <script src="js/jquery-3.5.1.min.js"></script>
 </head>
 <body class="container-fluid">
 <HEADER class="row">
@@ -14,26 +14,26 @@
     <p class ="col-lg-12 col-sm-12">But de votre recherche</p>
     <address class ="col-lg-12 col-sm-12" >Adresse postale</address>
     <p class ="col-lg-12 col-sm-12" ><a href="mailto:votrenom@bidule.com">votre_adresse_mail@mail.com</a></p>
-    <NAV id="nav" class="navbar navbar-expand-sm navbar-light bg-info col-12">
-        <a class="navbar-brand" href="#">Mon CV</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <nav class="col-lg-12 col-sm-12 navbar navbar-expand-lg navbar-light bg-info">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <ul class="navbar-nav" >
-                <li class="nav-item"><a class="nav-link col-sm-1" href="#experiences">Expériences</a></li>
-                <li class="nav-item"><a class="nav-link col-sm-1" href="#formation">Formation</a></li>
-                <li class="nav-item"><a class="nav-link col-sm-1" href="#interets">Intérêts</a></li>
+                <li class="nav-item"><a class="nav-link" href="#experiences">Expériences</a></li>
+                <li class="nav-item"><a class="nav-link" href="#formation">Formation</a></li>
+                <li class="nav-item"><a class="nav-link" href="#interets">Intérêts</a></li>
             </ul>
         </div>
-    </NAV>
+    </nav>
 </HEADER>
     <div class="row">
     <SECTION class="col-lg-6 col-sm-12">
         <h2>Mon parcours</h2>
         <ARTICLE >
             <h3 id="experiences">Expériences Professionnelles</h3>
-            <div class="card " style="width: 40vw">
+            <div class="card col-sm-12" >
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">Expérience 1</li>
                     <li class="list-group-item">Expérience 2</li>
@@ -43,7 +43,7 @@
         </ARTICLE>
         <ARTICLE>
             <h3 id="formation">Formation</h3>
-            <div class="card " style="width: 40vw">
+            <div class="card col-sm-12" >
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">Formation 1</li>
                     <li class="list-group-item">Formation 2</li>
@@ -53,7 +53,7 @@
         </ARTICLE>
         <ARTICLE>
             <h3  id="interets">Intérêts</h3>
-            <div class="card " style="width: 40vw">
+            <div class="card col-sm-12" >
                 <ul class="list-group list-group-flush">
                     <li class="list-group-item">Intérêt 1</li>
                     <li class="list-group-item">Intérêt 2</li>
@@ -64,7 +64,7 @@
     </SECTION>
     <ASIDE class="col-lg-6 col-sm-12">
         <h3 id="competences">Compétences</h3>
-        <div class="card" style="width: 40vw" >
+        <div class="card col-sm-12"  >
             <ol class="list-group list-group-flush">
                 <li class="list-group-item">
                     <div class="progress">
@@ -91,6 +91,8 @@
         </a>
         <p class="col-lg-12 col-sm-12">Created by ??????</p>
     </FOOTER>
-
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 </body>
 </html>
