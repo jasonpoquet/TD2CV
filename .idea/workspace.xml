@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="387651dd-537e-4b93-babc-8b53924b120a" name="Default Changelist" comment="modification CV">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +69,7 @@
       <workItem from="1605957513940" duration="794000" />
       <workItem from="1606210316356" duration="6000" />
       <workItem from="1606219036998" duration="13000" />
-      <workItem from="1606309045003" duration="21069000" />
+      <workItem from="1606309045003" duration="21759000" />
     </task>
     <task id="LOCAL-00001" summary="Innitial Commit">
       <created>1605884717527</created>
@@ -107,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606380922766</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="modification CV">
+      <created>1606384162465</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606384162465</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,9 +153,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1605881687878" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606380926122">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606384165591">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606380926122" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606384165591" />
   </component>
 </project>
